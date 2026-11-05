@@ -1,0 +1,52 @@
+{
+  "modelos": {
+    "referencia_majoritaria": {
+      "resumo": {
+        "f1_macro": {
+          "media": 0.17633816425120774,
+          "desvio_entre_folds": 0.01265598697828614
+        },
+        "acuracia": {
+          "media": 0.36054351565187476,
+          "desvio_entre_folds": 0.0352935811950318
+        },
+        "recall_positivo": {
+          "media": 0.0,
+          "desvio_entre_folds": 0.0
+        }
+      }
+    },
+    "atual": {
+      "resumo": {
+        "f1_macro": {
+          "media": 0.5227853192559075,
+          "desvio_entre_folds": 0.09957024690729853
+        },
+        "acuracia": {
+          "media": 0.6642242862057104,
+          "desvio_entre_folds": 0.07297886820755622
+        },
+        "recall_positivo": {
+          "media": 0.06666666666666667,
+          "desvio_entre_folds": 0.13333333333333333
+        }
+      }
+    },
+    "balanceado": {
+      "resumo": {
+        "f1_macro": {
+          "media": 0.5727017770671021,
+          "desvio_entre_folds": 0.11848912285285715
+        },
+        "acuracia": {
+          "media": 0.6629858961128311,
+          "desvio_entre_folds": 0.05932028823252003
+        },
+        "recall_positivo": {
+          "media": 0.24666666666666667,
+          "desvio_entre_folds": 0.2082733246908441
+        }
+      }
+    }
+  }
+}
